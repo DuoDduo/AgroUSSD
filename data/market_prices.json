@@ -3,5 +3,52 @@
     "product_name": "maize",
     "location": "ifo",
     "price": 5000.0
+  },
+  {
+    "product_name": "tomato",
+    "location": "lagos",
+    "price": 3000.0
+  },
+  {
+    "product_name": "rice",
+    "location": "abeokuta",
+    "price": 7000.0
+  },
+  {
+    "product_name": "yam",
+    "location": "ondo",
+    "price": 4500.0
+  },
+  {
+    "product_name": "cassava",
+    "location": "ibadan",
+    "price": 3500.0
+  },
+  {
+    "product_name": "pepper",
+    "location": "lagos",
+    "price": 4000.0
+  },
+  {
+    "product_name": "maize",
+    "location": "Lagos",
+    "price": 5000.0
+  },
+  {
+    "product_name": "rice",
+    "location": "Lagos",
+    "price": 7000.0
+  },
+  {
+    "product_name": "cassava",
+    "location": "Oyo",
+    "price": 3000.0
+  },
+  {
+    "product_name": "maize",
+    "location": "Abuja",
+    "price": 5200.0
   }
 ]
+
+

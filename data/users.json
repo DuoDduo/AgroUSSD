@@ -91,15 +91,5 @@
     "type": "buyer_role",
     "language": "en",
     "business_name": "jeolad"
-  },
-  {
-    "name": "",
-    "phone": "",
-    "location": "",
-    "pin": "",
-    "type": "farmer",
-    "language": "en",
-    "farm_size": 0.0,
-    "primary_crops": []
   }
 ]

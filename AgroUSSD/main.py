@@ -1,4 +1,4 @@
-# src/main.py
+
 from interface.session_manager import SessionManager
 from interface.language_menu import LanguageMenu
 from interface.main_menu import MainMenu
@@ -11,7 +11,7 @@ def run():
     lang_menu = LanguageMenu(session)
     lang_menu.render()
 
-    # Now continue with the main menu using selected language
+    #  continue with the main menu using selected language
     menu = MainMenu(session)
     try:
         menu.render_loop()

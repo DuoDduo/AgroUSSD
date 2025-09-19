@@ -1,5 +1,5 @@
-# src/utils/translators.py
-
+# this file contains translations for various prompts and messages in multiple languages
+# used across the AgroUSSD application.
 languages = ["en", "yo", "ig", "ha", "pi"]  # English, Yoruba, Igbo, Hausa, Pidgin
 
 translations = {
