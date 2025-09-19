@@ -85,16 +85,17 @@ python main.py
 
 ### Team / Authors
 
-* **Blessing James** – Project Lead / Developer
+* **Blessing James** 
+* * **Kanyinsola Fagbayi** 
+* * **Osho Ridwanullah** 
+* * **Toyeebah Nababa** 
 
 
 >
 
 ---
 
-### License
 
-MIT License
 
 ---
 
