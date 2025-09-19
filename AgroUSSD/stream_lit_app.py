@@ -90,7 +90,7 @@ if st.session_state.menu_step == "register_farmer":
         name = st.text_input(t("enter_name"))
         phone = st.text_input(t("enter_phone"))
         location = st.text_input(t("enter_location"))
-        farm_size = st.number_input(t("enter_farm_size"), min_value=0.0)
+        farm_size = st.number_input(t("enter_farm_size"))
         crops = st.text_input(t("enter_primary_crops"))
         pin = st.text_input(t("enter_pin"), type="password")
         pin_confirm = st.text_input(t("confirm_pin"), type="password")

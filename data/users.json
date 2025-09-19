@@ -91,5 +91,30 @@
     "type": "buyer_role",
     "language": "en",
     "business_name": "jeolad"
+  },
+  {
+    "name": "ade mike",
+    "phone": "08077887788",
+    "location": "ondo",
+    "pin": "7788",
+    "type": "farmer_role",
+    "language": "en",
+    "farm_size": 300.0,
+    "primary_crops": [
+      "rice"
+    ]
+  },
+  {
+    "name": "ade louise",
+    "phone": "08077887789",
+    "location": "ekiti",
+    "pin": "7789",
+    "type": "farmer_role",
+    "language": "en",
+    "farm_size": 0.0,
+    "primary_crops": [
+      "rice",
+      "ginger"
+    ]
   }
 ]

@@ -8,16 +8,16 @@ class Farmer(User):  # Farmer inherits from User, so it has name, phone, locatio
         phone: str,
         location: str,
         pin: str,
-        farm_size_in_acres: float = 0.0,
-        primary_crops_list=None,
+        farm_size: float = 0.0,
+        primary_crops=None,
         language="en"
     ):
         # Initialize base User class with common user attributes
         super().__init__(name, phone, location, pin, language=language)
         
         # Specific attributes for Farmer
-        self.farm_size = farm_size_in_acres                   # Farm size in acres
-        self.primary_crops = primary_crops_list or []        # List of crops the farmer grows
+        self.farm_size = farm_size                  # Farm size in acres
+        self.primary_crops = primary_crops or []        # List of crops the farmer grows
 
     def role(self) -> str:
         # Return the translated role name based on session language
