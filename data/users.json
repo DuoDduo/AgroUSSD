@@ -116,5 +116,14 @@
       "rice",
       "ginger"
     ]
+  },
+  {
+    "name": "precious",
+    "phone": "07035468778",
+    "location": "warri",
+    "pin": "7000",
+    "type": "buyer_role",
+    "language": "en",
+    "business_name": "okon and sons"
   }
 ]
