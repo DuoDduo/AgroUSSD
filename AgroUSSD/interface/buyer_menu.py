@@ -19,7 +19,7 @@ class BuyerMenu(USSDInterface):
 
         # Display buyer menu
         self.print_function(
-            f"\n{self.t('hello')} {current_user.get('name')} ({self.t('buyer')})"
+            f"\n{self.t('hello')} {current_user.get('name')} {self.t('buyer')}"
             f"\n1. {self.t('search_produce')}"
             f"\n2. {self.t('browse_farmers')}"
             f"\n3. {self.t('contact_farmer')}"
@@ -49,7 +49,7 @@ class BuyerMenu(USSDInterface):
             if not search_results or not search_results.get("harvests"):
                 self.print_function(self.t("no_offers_found"))
             else:
-                self.print_function("\n=== Search Results ===")
+                self.print_function("\n= Search Results")
                 for h in search_results["harvests"]:
                     farmer_info = self.user_service.get_user(h["farmer_phone"])
                     self.print_function(
@@ -66,7 +66,7 @@ class BuyerMenu(USSDInterface):
             if not farmers_list:
                 self.print_function(self.t("no_farmers"))
             else:
-                self.print_function("\n=== Farmers List ===")
+                self.print_function("\n Farmers List")
                 for f in farmers_list:
                     self.print_function(
                         f"{f['name']} - {f['phone']} | {self.t('crops')}: {', '.join(f.get('primary_crops', []))}"

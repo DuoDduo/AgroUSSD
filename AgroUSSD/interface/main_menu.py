@@ -125,7 +125,7 @@ class MainMenu(USSDInterface):
             self.session.set_user(authenticated_user)
 
             # Redirect user to appropriate menu
-            if authenticated_user.get("type") == "farmer":
+            if authenticated_user.get("type") == "farmer_role":
                 FarmerMenu(self.session, self.input_function, self.print_function).render_loop()
             else:
                 BuyerMenu(self.session, self.input_function, self.print_function).render_loop()
