@@ -1,0 +1,17 @@
+[
+    {
+        "buyer_phone": "08012345678",
+        "farmer_phone": "08123456789",
+        "harvest_id": "a1b2c3d4-e5f6-7890-abcd-1234567890ef"
+    },
+    {
+        "buyer_phone": "08087654321",
+        "farmer_phone": "08198765432",
+        "harvest_id": "f1e2d3c4-b5a6-0987-cdef-0987654321ab"
+    },
+    {
+        "buyer_phone": "08011223344",
+        "farmer_phone": "08122334455",
+        "harvest_id": "12345678-abcd-1234-ef00-abcdef123456"
+    }
+]
