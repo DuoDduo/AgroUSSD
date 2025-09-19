@@ -77,11 +77,11 @@ translations = {
 
     # Inputs / prompts
     "enter_name": {
-        "en": "Name",
-        "yo": "Orukọ",
-        "ig": "Aha",
-        "ha": "Suna",
-        "pi": "Name"
+        "en": "Name: ",
+        "yo": "Orukọ: ",
+        "ig": "Aha: ",
+        "ha": "Suna: ",
+        "pi": "Name: "
     },
     "enter_phone": {
         "en": "Phone (e.g. 080xxxxxxx)",
@@ -105,18 +105,18 @@ translations = {
         "pi": "How many hectares"
     },
     "enter_primary_crops": {
-        "en": "Primary crops (comma separated)",
-        "yo": "Awọn ọgbin akọkọ (ya pẹlu koma)",
-        "ig": "Crops ndị bụ isi (tinye comma)",
-        "ha": "Babban amfanin gona (raba da comma)",
-        "pi": "Primary crops (separate with comma)"
+        "en": "Primary crops (comma separated): ",
+        "yo": "Awọn ọgbin akọkọ (ya pẹlu koma): ",
+        "ig": "Crops ndị bụ isi (tinye comma): ",
+        "ha": "Babban amfanin gona (raba da comma): ",
+        "pi": "Primary crops (separate with comma): "
     },
     "enter_business_name": {
-        "en": "Business name (optional)",
-        "yo": "Orukọ iṣowo (aṣayan)",
-        "ig": "Aha azụmahịa (nke bụghị iwu)",
-        "ha": "Sunan kasuwanci (zabi)",
-        "pi": "Business name (if you get)"
+        "en": "Business name (optional): ",
+        "yo": "Orukọ iṣowo (aṣayan): ",
+        "ig": "Aha azụmahịa (nke bụghị iwu): ",
+        "ha": "Sunan kasuwanci (zabi): ",
+        "pi": "Business name (if you get): "
     },
     "enter_pin": {
         "en": "Enter PIN",
