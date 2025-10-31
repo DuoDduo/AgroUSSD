@@ -84,25 +84,25 @@ translations = {
         "pi": "Name: "
     },
     "enter_phone": {
-        "en": "Phone (e.g. 080xxxxxxx)",
-        "yo": "Foonu (e.g. 080xxxxxxx)",
-        "ig": "Ekwenti (e.g. 080xxxxxxx)",
-        "ha": "Lambar waya (e.g. 080xxxxxxx)",
-        "pi": "Phone (e.g. 080xxxxxxx)"
+        "en": "Phone (e.g. 080xxxxxxx): ",
+        "yo": "Foonu (e.g. 080xxxxxxx): ",
+        "ig": "Ekwenti (e.g. 080xxxxxxx): ",
+        "ha": "Lambar waya (e.g. 080xxxxxxx): ",
+        "pi": "Phone (e.g. 080xxxxxxx): "
     },
     "enter_location": {
-        "en": "Location (state/city)",
-        "yo": "Ibi (Ipinle/Ilẹ̀)",
-        "ig": "Ebe (steeti/obodo)",
-        "ha": "Wuri (jiha/garin)",
-        "pi": "Where you dey (state/city)"
+        "en": "Location (state/city): ",
+        "yo": "Ibi (Ipinle/Ilẹ̀): ",
+        "ig": "Ebe (steeti/obodo): ",
+        "ha": "Wuri (jiha/garin): ",
+        "pi": "Where you dey (state/city): "
     },
     "enter_farm_size": {
-        "en": "Farm size (hectares)",
-        "yo": "Iwọn oko (hectares)",
-        "ig": "Ibu ubi (hectares)",
-        "ha": "Girman gona (hectares)",
-        "pi": "How many hectares"
+        "en": "Farm size (hectares): ",
+        "yo": "Iwọn oko (hectares): ",
+        "ig": "Ibu ubi (hectares): ",
+        "ha": "Girman gona (hectares): ",
+        "pi": "How many hectares: "
     },
     "enter_primary_crops": {
         "en": "Primary crops (comma separated): ",
@@ -119,11 +119,11 @@ translations = {
         "pi": "Business name (if you get): "
     },
     "enter_pin": {
-        "en": "Enter PIN",
-        "yo": "Tẹ PIN",
-        "ig": "Tinye PIN",
-        "ha": "Shigar da PIN",
-        "pi": "Enter your PIN"
+        "en": "Enter PIN: ",
+        "yo": "Tẹ PIN: ",
+        "ig": "Tinye PIN: ",
+        "ha": "Shigar da PIN: ",
+        "pi": "Enter your PIN: "
     },
 
     # Registration / login / errors

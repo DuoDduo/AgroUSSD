@@ -29,14 +29,14 @@ def t(key):
 
 # Step 1: Dial USSD
 if st.session_state.menu_step == "dial":
-    st.title("🌾 AgroUSSD Web Simulator")
+    st.title("🌾 AgroUSSD")
     ussd = st.text_input("Dial *882# to start (or type 'exit' to quit):")
     if ussd.strip() == "*882#":
         st.session_state.menu_step = "select_language"
     elif ussd.lower() == "exit":
         st.stop()
     else:
-        st.warning("Invalid USSD code")
+        st.warning("Enter USSD code")
 
 
 # Step 2: Language selection

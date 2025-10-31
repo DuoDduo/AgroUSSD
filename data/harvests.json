@@ -7,5 +7,23 @@
     "quality": "high",
     "asking_price": 60000.0,
     "created_at": "2025-09-19 01:03:15"
+  },
+  {
+    "id": "b2a7f208-de51-44ac-9a4e-fb303d82586a",
+    "farmer_phone": "07035981236",
+    "product_name": "carrot",
+    "quantity": 500.0,
+    "quality": "good",
+    "asking_price": 5000.0,
+    "created_at": "2025-09-19 11:11:01"
+  },
+  {
+    "id": "7e8706f6-e25f-4668-9a5e-65bb3b16a465",
+    "farmer_phone": "08077887789",
+    "product_name": "carrot",
+    "quantity": 60.0,
+    "quality": "good",
+    "asking_price": 6000.0,
+    "created_at": "2025-09-19 13:08:20"
   }
 ]

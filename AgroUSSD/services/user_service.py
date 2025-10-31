@@ -112,7 +112,7 @@ class UserService:
         all_users = load_json(self.users_path)
 
         # Filter users to only farmers
-        farmers = [user for user in all_users if user.get('type') == 'farmer']
+        farmers = [user for user in all_users if user.get('type') == 'farmer_role']
 
         # Filter by location if provided
         if location:

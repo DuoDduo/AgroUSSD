@@ -48,7 +48,15 @@
     "product_name": "maize",
     "location": "Abuja",
     "price": 5200.0
+  },
+  {
+    "product_name": "carrot",
+    "location": "ondo",
+    "price": 3000.0
+  },
+  {
+    "product_name": "carrot",
+    "location": "lagos",
+    "price": 5000.0
   }
 ]
-
-

@@ -44,5 +44,43 @@
     "primary_crops": [
       "maize"
     ]
+  },
+  {
+    "name": "Blessing James",
+    "phone": "09015485392",
+    "location": "Abeokuta",
+    "pin": "8000",
+    "type": "farmer_role",
+    "language": "en",
+    "farm_size": 4000.0,
+    "primary_crops": [
+      "carrot",
+      "beans"
+    ]
+  },
+  {
+    "name": "dammy",
+    "phone": "08036755586",
+    "location": "ekiti",
+    "pin": "5586",
+    "type": "farmer_role",
+    "language": "en",
+    "farm_size": 600.0,
+    "primary_crops": [
+      "maize"
+    ]
+  },
+  {
+    "name": "taiwo",
+    "phone": "09012345678",
+    "location": "oyo",
+    "pin": "9000",
+    "type": "farmer_role",
+    "language": "en",
+    "farm_size": 3000.0,
+    "primary_crops": [
+      "corn",
+      "carrot"
+    ]
   }
 ]

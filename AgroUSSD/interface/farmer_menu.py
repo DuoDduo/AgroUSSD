@@ -60,7 +60,7 @@ class FarmerMenu(USSDInterface):
             if not harvests_data or not harvests_data.get("harvests"):
                 self.print_function(self.t("no_harvests_recorded"))
             else:
-                self.print_function("\n=== My Harvests ===")
+                self.print_function("\nMy Harvest")
                 for h in harvests_data["harvests"]:
                     self.print_function(
                         f"{h['product_name']} - {h['quantity']} {h.get('quality')} | "
