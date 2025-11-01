@@ -29,7 +29,7 @@ class Farmer(User):  # Farmer inherits from User, so it has name, phone, locatio
         farmer_data.update({
             "farm_size": self.farm_size,
             "primary_crops": self.primary_crops
-        })
+        }) # type: ignore
         return farmer_data
 
     @classmethod

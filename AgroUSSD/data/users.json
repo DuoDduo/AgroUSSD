@@ -82,5 +82,43 @@
       "corn",
       "carrot"
     ]
+  },
+  {
+    "name": "mr willie",
+    "phone": "08167468425",
+    "location": "ogun",
+    "pin": "9001",
+    "type": "farmer_role",
+    "language": "en",
+    "farm_size": 2000.0,
+    "primary_crops": [
+      "ogede",
+      "isu",
+      "ewedu"
+    ]
+  },
+  {
+    "name": "Ademide",
+    "phone": "",
+    "location": "",
+    "pin": "",
+    "type": "farmer_role",
+    "language": "en",
+    "farm_size": 0.0,
+    "primary_crops": []
+  },
+  {
+    "name": "Dr. Bosun Tijani",
+    "phone": "09098766543",
+    "location": "ogun",
+    "pin": "4700",
+    "type": "farmer_role",
+    "language": "en",
+    "farm_size": 5000.0,
+    "primary_crops": [
+      "isu",
+      "iresi",
+      "ewa"
+    ]
   }
 ]

@@ -20,7 +20,7 @@ class FarmerMenu(USSDInterface):
 
         # Display menu
         self.print_function(
-            f"\n{self.t('hello')} {current_user.get('name')} {self.t('farmer')})"
+            f"\n{self.t('hello')} {current_user.get('name')} {self.t('farmer')}"
             f"\n1. {self.t('record_harvest')}"
             f"\n2. {self.t('my_harvests')}"
             f"\n3. {self.t('set_market_price')}"
